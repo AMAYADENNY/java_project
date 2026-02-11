@@ -1,3 +1,3 @@
-# java_project
-java project
-COURSE REGISTRATION SYSTEM
+AMAYA DENNY
+CSE C
+VML24CS035
